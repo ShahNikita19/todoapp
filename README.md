@@ -64,4 +64,3 @@
 
 1. Go back to your GitHub account and navigate to your newly created repository.
 2. You should see the `src` folder uploaded successfully.
-3. All the best
